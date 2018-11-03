@@ -1,0 +1,12 @@
+dist/
+log/
+src/
+.babelrc
+.editorconfig
+.eslintrc
+.gitattributes
+.gitignore
+.npmrc
+gulpfile.js
+tsconfig.json
+tslint.json
