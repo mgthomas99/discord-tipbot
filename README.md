@@ -1,6 +1,6 @@
 # discord-tipbot
 
-Abstract Discord tip bot for sending and receiving value.
+Abstract Discord tip bot for sending and receiving digital currency.
 
 ## License
 
